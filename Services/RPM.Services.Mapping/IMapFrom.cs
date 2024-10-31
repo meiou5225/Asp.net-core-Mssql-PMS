@@ -3,5 +3,11 @@
     // ReSharper disable once UnusedTypeParameter
     public interface IMapFrom<T>
     {
+	
+    }
+	
+    public interface IMatchWithd<T>
+    {
+	
     }
 }

@@ -13,13 +13,6 @@
 - *The platform meets owners, potential tenants and potential property managers. Quite often, the owners don't live close to all their properties. They could even live in another country. Managing their properties scattered everywhere, is a challenge.*
 
 ------------
-**Access to the website:**
-**[HOMY at AZURE](https://homy.azurewebsites.net)**
-
-------------
-[![Homy Property Management](https://raw.githubusercontent.com/bodyquest/SoftwareUniversity-Bulgaria/master/ImgRepo/homy-multy-device.png "Multi-device mock-up")](https://homy.azurewebsites.net)
-------------
-------------
 
 ## **Database**
 [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) along with [Entity Framework Core](https://dotnet.microsoft.com/download) were used to create and store the values. 
@@ -36,8 +29,6 @@ The database schema consists of the following main entities:
 * Payments
 * StripeSessions
 * ###### Hangfire Database Schema inside the main production DB
-
-See the Schema here: **[DatabaseSchema](https://raw.githubusercontent.com/bodyquest/SoftwareUniversity-Bulgaria/master/ImgRepo/Homy-Database-Diagram.png)**
 
 ## **Backend**
 The web project contains:

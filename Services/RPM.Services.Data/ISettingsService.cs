@@ -6,6 +6,8 @@
     {
         int GetCount();
 
+	void setCount();
+
         IEnumerable<T> GetAll<T>();
     }
 }
